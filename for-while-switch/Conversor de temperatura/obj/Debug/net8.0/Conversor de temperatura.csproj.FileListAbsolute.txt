@@ -1,0 +1,14 @@
+C:\Revisão C#\for-while-switch\Conversor de temperatura\bin\Debug\net8.0\Conversor de temperatura.exe
+C:\Revisão C#\for-while-switch\Conversor de temperatura\bin\Debug\net8.0\Conversor de temperatura.deps.json
+C:\Revisão C#\for-while-switch\Conversor de temperatura\bin\Debug\net8.0\Conversor de temperatura.runtimeconfig.json
+C:\Revisão C#\for-while-switch\Conversor de temperatura\bin\Debug\net8.0\Conversor de temperatura.dll
+C:\Revisão C#\for-while-switch\Conversor de temperatura\bin\Debug\net8.0\Conversor de temperatura.pdb
+C:\Revisão C#\for-while-switch\Conversor de temperatura\obj\Debug\net8.0\Conversor de temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revisão C#\for-while-switch\Conversor de temperatura\obj\Debug\net8.0\Conversor de temperatura.AssemblyInfoInputs.cache
+C:\Revisão C#\for-while-switch\Conversor de temperatura\obj\Debug\net8.0\Conversor de temperatura.AssemblyInfo.cs
+C:\Revisão C#\for-while-switch\Conversor de temperatura\obj\Debug\net8.0\Conversor de temperatura.csproj.CoreCompileInputs.cache
+C:\Revisão C#\for-while-switch\Conversor de temperatura\obj\Debug\net8.0\Conversor de temperatura.dll
+C:\Revisão C#\for-while-switch\Conversor de temperatura\obj\Debug\net8.0\refint\Conversor de temperatura.dll
+C:\Revisão C#\for-while-switch\Conversor de temperatura\obj\Debug\net8.0\Conversor de temperatura.pdb
+C:\Revisão C#\for-while-switch\Conversor de temperatura\obj\Debug\net8.0\Conversor de temperatura.genruntimeconfig.cache
+C:\Revisão C#\for-while-switch\Conversor de temperatura\obj\Debug\net8.0\ref\Conversor de temperatura.dll

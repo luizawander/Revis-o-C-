@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Conversor de temperatura")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ElectronicProduct")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eafdaba7349004b2bddc3d567159e9df67a287d6")]
-[assembly: System.Reflection.AssemblyProductAttribute("Conversor de temperatura")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Conversor de temperatura")]
+[assembly: System.Reflection.AssemblyProductAttribute("ElectronicProduct")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ElectronicProduct")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

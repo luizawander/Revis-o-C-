@@ -1,0 +1,15 @@
+C:\Revisão C#\herança\ElectronicProduct\obj\Debug\net8.0\ElectronicProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revisão C#\herança\ElectronicProduct\obj\Debug\net8.0\ElectronicProduct.AssemblyInfoInputs.cache
+C:\Revisão C#\herança\ElectronicProduct\obj\Debug\net8.0\ElectronicProduct.AssemblyInfo.cs
+C:\Revisão C#\herança\ElectronicProduct\obj\Debug\net8.0\ElectronicProduct.csproj.CoreCompileInputs.cache
+C:\Revisão C#\herança\ElectronicProduct\obj\Debug\net8.0\ElectronicProduct.sourcelink.json
+C:\Revisão C#\herança\ElectronicProduct\bin\Debug\net8.0\ElectronicProduct.exe
+C:\Revisão C#\herança\ElectronicProduct\bin\Debug\net8.0\ElectronicProduct.deps.json
+C:\Revisão C#\herança\ElectronicProduct\bin\Debug\net8.0\ElectronicProduct.runtimeconfig.json
+C:\Revisão C#\herança\ElectronicProduct\bin\Debug\net8.0\ElectronicProduct.dll
+C:\Revisão C#\herança\ElectronicProduct\bin\Debug\net8.0\ElectronicProduct.pdb
+C:\Revisão C#\herança\ElectronicProduct\obj\Debug\net8.0\ElectronicProduct.dll
+C:\Revisão C#\herança\ElectronicProduct\obj\Debug\net8.0\refint\ElectronicProduct.dll
+C:\Revisão C#\herança\ElectronicProduct\obj\Debug\net8.0\ElectronicProduct.pdb
+C:\Revisão C#\herança\ElectronicProduct\obj\Debug\net8.0\ElectronicProduct.genruntimeconfig.cache
+C:\Revisão C#\herança\ElectronicProduct\obj\Debug\net8.0\ref\ElectronicProduct.dll
